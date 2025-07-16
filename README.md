@@ -1,6 +1,7 @@
 # 🎮 Movie Recommendation System
 
 This is a content-based movie recommendation system built using Python, Streamlit, and machine learning libraries like scikit-learn. It suggests similar movies based on genres and tags using TF-IDF and cosine similarity.
+![MRA](https://github.com/user-attachments/assets/2b8c0a97-3a05-44d3-9252-14b6678e16f0)
 
 ## 🚀 Features
 
